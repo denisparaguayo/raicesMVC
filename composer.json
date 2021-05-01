@@ -1,0 +1,18 @@
+{
+    "name": "denis/raices",
+    "description": "Creando Proyecto de Bienes raíces",
+    "authors": [
+        {
+            "name": "denisparaguayo",
+            "email": "72168757+denisparaguayo@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "intervention/image": "^2.5"
+    },
+    "autoload": {"psr-4": {
+        "Model\\" : "./models",
+        "MVC\\" : "./",
+        "Controllers\\" : "./controllers"
+    }}
+}
