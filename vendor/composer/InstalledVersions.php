@@ -25,24 +25,24 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '053e898cbd3a16ec2f695335c6b4f15a91351cb3',
     'name' => 'denis/raices',
   ),
   'versions' => 
   array (
     'denis/raices' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '053e898cbd3a16ec2f695335c6b4f15a91351cb3',
     ),
     'guzzlehttp/psr7' => 
     array (
