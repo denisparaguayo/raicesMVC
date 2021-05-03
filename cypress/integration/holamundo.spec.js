@@ -1,8 +1,6 @@
 describe('Envia un Hola Mundo', () =>{
     it('visit', () => {
-        cy.visit('http://localhost:3000', {
-          failOnStatusCode: false
-        }) 
-      })
+        cy.visit('http://localhost:3000');
+      });
     
 });
