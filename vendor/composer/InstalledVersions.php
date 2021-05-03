@@ -30,7 +30,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '053e898cbd3a16ec2f695335c6b4f15a91351cb3',
+    'reference' => '44dad0e07bca49b72009de923cf4e6aee1c73d9d',
     'name' => 'denis/raices',
   ),
   'versions' => 
@@ -42,7 +42,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '053e898cbd3a16ec2f695335c6b4f15a91351cb3',
+      'reference' => '44dad0e07bca49b72009de923cf4e6aee1c73d9d',
     ),
     'guzzlehttp/psr7' => 
     array (
@@ -61,6 +61,15 @@ private static $installed = array (
       array (
       ),
       'reference' => 'abbf18d5ab8367f96b3205ca3c89fb2fa598c69e',
+    ),
+    'phpmailer/phpmailer' => 
+    array (
+      'pretty_version' => 'v6.4.1',
+      'version' => '6.4.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '9256f12d8fb0cd0500f93b19e18c356906cbed3d',
     ),
     'psr/http-message' => 
     array (
